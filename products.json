@@ -9,7 +9,8 @@
         "image": "images/mouse-white.png",
         "colors": [
             { "name": "Белый", "image": "images/mouse-white.png" },
-            { "name": "Черный", "image": "images/mouse-black.png" }
+            { "name": "Черный", "image": "images/mouse-black.png" },
+            { "name": "Розовый", "image": "images/mouse-pink.png" }
         ],
         "rating": 4.7,
         "createdAt": "2026-01-15T10:00:00Z",
